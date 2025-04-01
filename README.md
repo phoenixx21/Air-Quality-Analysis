@@ -1,9 +1,9 @@
 # Data-Analysis-and-Visualization-of-India-Air-Quality
 
-![](Images/pollution(1).jpg)
-![](Images/pollution(2).jpg)
-![](Images/pollution(3).jpg)
-![](Images/pollution(4).jpg)
+![](Images/Pollution (1).jpg)
+![](Images/Pollution (2).jpg)
+![](Images/Pollution (3).jpg)
+![](Images/Pollution (4).jpg)
 
 The purpose of this project is to analyze and visualize the data of Air Quality in India.
 
